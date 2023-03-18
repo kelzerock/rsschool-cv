@@ -22,8 +22,9 @@
 ## __Skills__
 
 * HTML & CSS
-* JavaScript
+* JavaScript + React
 * TypeScript
+* Ruby on rail
 * Figma
 * Git
 * Excel
@@ -60,7 +61,7 @@ function findOdd(A){
 * ItAcademy (_Website Development Using HTML and CSS & JavaScript Web Application Development_)
 * RS SCHOOL (_[JS 2021Q1](https://app.rs.school/certificate/sjc6h45g)_)
 * RS SCHOOL (_[JS 2022Q1](https://app.rs.school/certificate/jvx5fssr)_)
-
+  
 ---
 
 ## __English language__
