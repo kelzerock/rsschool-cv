@@ -1,3 +1,3 @@
 # RSSchool-cv
 
-## My RSSchool cv [==>/////](https://GITHUB-USERNAME.github.io/rsschool-cv/cv)
+## My RSSchool cv [==>/////](https://kelzerock.github.io/rsschool-cv/cv)
