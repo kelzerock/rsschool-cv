@@ -67,7 +67,7 @@ function reverse(n){
 * ItAcademy (_Website Development Using HTML and CSS & JavaScript Web Application Development_)
 * RS SCHOOL (_[JS 2021Q1](https://app.rs.school/certificate/sjc6h45g)_)
 * RS SCHOOL (_[JS 2022Q1](https://app.rs.school/certificate/jvx5fssr)_)
-* EPAM RD Laboratory (_[Ruby, Ruby on Rails](https://drive.google.com/file/d/1PUKHjnE6vR1mWXyG8ZzblggHEGNn7VwD/view?usp=drive_link))
+* EPAM RD Laboratory (_[Ruby, Ruby on Rails 2022Q2](https://drive.google.com/file/d/1PUKHjnE6vR1mWXyG8ZzblggHEGNn7VwD/view?usp=drive_link))
   
 ---
 
